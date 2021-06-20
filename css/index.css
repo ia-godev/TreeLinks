@@ -1,0 +1,10 @@
+.h1 {
+  margin: 20px;
+  color: #fff;
+}
+
+.btn {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
